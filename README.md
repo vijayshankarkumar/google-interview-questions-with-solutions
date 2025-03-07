@@ -1,4 +1,5 @@
 # Google Interview Questions with Solutions
+[source](https://leetcode.com/discuss/post/6185127/2024-google-interview-questions-compilat-mjrf/)
 
 ##### 1. You are given maximum initial energy k and array A of length n denoting wind speed on n days. You stuck on a boat and each day you can either choose to move or stay put. Each day you decide to travel you will move ahead A[i] Dist and your energy decreases by 1 and if you decide to stay the your energy increases by 1.
 Find the maximum distance you can travel without your energy dropping below zero after n days.
